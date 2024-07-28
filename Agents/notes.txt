@@ -1,0 +1,5 @@
+The most common GitHub issues include:
+1. Added badge for current user identification (Issue #121)
+2. Fixing close button on alert
+
+These are some of the issues that are frequently encountered on GitHub.
